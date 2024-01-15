@@ -1,1 +1,2 @@
-tabs: ["node 'src/App.js'"]
+tabs: ['src/index.html', 'src/folder/script1.js', 'README.md']
+terminals: ['echo one']
